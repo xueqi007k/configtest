@@ -1,7 +1,5 @@
-spring:
-  config:
-    import: configserver 
+
 server:
   port: 3001
 version:
-  message: 20190305发布第一个版本
+  message: 20190305 release the first version
